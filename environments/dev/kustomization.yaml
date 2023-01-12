@@ -4,4 +4,4 @@ resources:
 - ../../base/
 images:
 - name: quay.io/arisanch/hello-world
-  newTag: 9509ff75ca631914ddc72620a3de61f4de4780d1
+  newTag: 4b5c1a55e3b8b5efbba748eea1bbe8701ed6b08d
