@@ -4,4 +4,4 @@ resources:
 - ../../base/
 images:
 - name: quay.io/rseip/hello-world
-  newTag: 0be9cb18206797c3e0cd22f373cb5fa15a654abb
+  newTag: aaa4cf036981f998a2b6fba34e22121c53fd653d
